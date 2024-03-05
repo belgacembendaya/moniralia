@@ -2,8 +2,11 @@
 body{  
      margin:0px;
      padding: 0px;
-     background-image: url("assets/image/background.jpg");
+     background-image: url("assets/image/background1.jpg");
      background-repeat: no-repeat;
      background-size: cover;
+     
+
+     
     
 }
