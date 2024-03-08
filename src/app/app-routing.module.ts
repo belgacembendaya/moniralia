@@ -8,7 +8,7 @@ import {TeamComponent  } from './team/team.component';
 
 
 const routes: Routes = [
- 
+  {path:"", component : HomeComponent} ,
   {path:"home", component : HomeComponent} ,
   {path:"about", component : AboutComponent} ,
   {path:"contact", component : ContactComponent} ,
