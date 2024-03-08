@@ -1,0 +1,27 @@
+.bendaya{
+    background-color: blue;
+    border-radius: 15px;
+    box-shadow: 5px -4px  5px  rgb(194, 223, 126) inset;
+    }
+    
+    a{
+        text-decoration: none;
+        color:rgb(239, 245, 245);
+        font-size: 20px;
+        margin-right: 15px;
+        
+    }
+    img{
+        margin-left: 55px;
+    }
+    .conteneur{
+        display: flex;
+       
+        margin-right: 220px;
+    
+    }
+ 
+    h1{
+        color: red ;
+    }
+    
