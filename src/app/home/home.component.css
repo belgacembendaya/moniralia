@@ -1,31 +1,71 @@
 
-
-
+/* START style responsive pour home1 et HOME1 */
+@media only screen and (max-width: 400px) {
   .home1 {
-   
-    max-width: 100%; /* Assurer que l'image ne dépasse pas la largeur du conteneur */
-    max-height: 100%; /* Assurer que l'image ne dépasse pas la hauteur du conteneur */
+    max-width: 100%; /* Assurer que la vidéo ne dépasse pas la largeur du conteneur */
+    max-height: 50%;/* Assurer que l'image ne dépasse pas la hauteur du conteneur */
+    border-radius: 50%;
+    padding: 0px;
   }
   .HOME1{
     display: flex; /* Utiliser un conteneur flexible */
     justify-content: center; /* Aligner horizontalement */
     align-items: center; /* Aligner verticalement */
-    width: 90%; /* Assurer que le conteneur prend toute la largeur */
-    height: 100vh; /* Assurer que le conteneur prend toute la hauteur de l'écran */
-    margin: 50px;
+    width: 100%; /* Assurer que le conteneur prend toute la largeur */
+    height: 100vh;/* Assurer que le conteneur prend toute la hauteur de l'écran */
+    
+    background: yellow;
+    }
   }
+@media only screen and (min-width: 401px) and (max-width: 1024px) {
+  .home1 {
+    max-width: 100%; /* Assurer que la vidéo ne dépasse pas la largeur du conteneur */
+    max-height: 50%;/* Assurer que l'image ne dépasse pas la hauteur du conteneur */
+    border-radius: 50%;
+    padding: 0px;
+  }
+  .HOME1{
+    display: flex; /* Utiliser un conteneur flexible */
+    justify-content: center; /* Aligner horizontalement */
+    align-items: center; /* Aligner verticalement */
+    width: 100%; /* Assurer que le conteneur prend toute la largeur */
+    height: 100vh;/* Assurer que le conteneur prend toute la hauteur de l'écran */
+
+    background: rgb(219, 14, 14);
+    }
+  }
+@media only screen and (min-width: 1025px) {
+  .home1 {
+    max-width: 100%; /* Assurer que la vidéo ne dépasse pas la largeur du conteneur */
+    max-height: 50%; /* Assurer que l'image ne dépasse pas la hauteur du conteneur */
+    border-radius: 50%;
+    padding: 0px;
+  }
+  .HOME1{
+    display: flex; /* Utiliser un conteneur flexible */
+    justify-content: center; /* Aligner horizontalement */
+    align-items: center; /* Aligner verticalement */
+    width: 100%; /* Assurer que le conteneur prend toute la largeur */
+    height: 100vh; /* Assurer que le conteneur prend toute la hauteur de l'écran */
+   
+    background: rgb(32, 243, 4);
+    }
+  }
+/* END  style responsive pour home1 et HOME1 */
   .home2 {
     width:100%;
     height:300px;
+   border-radius: 50%;
   
   }
   .HOME2{
-    background: red;
+
+    
   }
   .home3 {
     width:100%;
     height:300px;
-  
+    border-radius: 35%;
   }
   .HOME3{
     float: left;
@@ -33,27 +73,38 @@
   .home4 {
     width:100%;
     height:300px;
-  
+    border-radius: 35%;
   }
   .HOME4{
     float: right;
-    background: red;
+    
   }
   .home5 {
     width:100%;
     height:300px;
-  
+    border-radius: 50%;
   }
   .HOME5{
-    background: red;
+    
   }
   .home6 {
-    width:100%;
-    height:300px;
-  
+    width: 900px; /* Assurer que l'image ne dépasse pas la largeur du conteneur */
+    height: 450px; /* Assurer que l'image ne dépasse pas la hauteur du conteneur */
+    border-radius: 50%;
+    padding: 0px;
   }
   .HOME6{
-    background: red;
+    display: flex; /* Utiliser un conteneur flexible */
+    justify-content: center; /* Aligner horizontalement */
+    align-items: center; /* Aligner verticalement */
+    width: 900px; /* Assurer que le conteneur prend toute la largeur */
+    height: 450px; /* Assurer que le conteneur prend toute la hauteur de l'écran */
+    margin-top: 30px;
+    margin-left: 220px;
+  
+ 
+
+   
   }
  
   
