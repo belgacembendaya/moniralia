@@ -1,8 +1,20 @@
-p{
-    color:rgb(1, 8, 14);
-}
 h1{
     color:aqua;
     text-align: center;
     text-shadow: 5px -5px 5px rgb(74, 71, 233) ;
+}
+
+.ben{
+
+    text-indent: 5%;
+    margin-left: 25%;
+
+    
+}
+h2{
+    margin-left: 25%;
+}
+img{
+
+   height:200px;
 }
