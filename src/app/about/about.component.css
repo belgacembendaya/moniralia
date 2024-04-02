@@ -17,7 +17,7 @@ h2{
       
     }
     h1{
-        color:aqua;
+        color:black;
         text-align: center;
         text-shadow: 5px -5px 5px rgb(74, 71, 233) ;
         margin-top: 10%;
@@ -26,8 +26,9 @@ h2{
         text-indent: 5%;
         margin-left: 25%;
         text-align: justify;
-        font-weight: bold;
+        font-weight:bold;
         font-style: italic;
+        font-size: small;
     }
     }
   @media only screen and (min-width: 301px) and (max-width: 500px) {
@@ -39,7 +40,7 @@ h2{
      
     }
     h1{
-        color:aqua;
+        color:black;
         text-align: center;
         text-shadow: 5px -5px 5px rgb(74, 71, 233) ;
         margin-top: 10%;
@@ -50,6 +51,7 @@ h2{
         text-align: justify;
         font-weight: bold;
         font-style: italic;
+        font-size: smaller; 
     }
     }
     @media only screen and (min-width: 501px) and (max-width: 700px) {
@@ -61,7 +63,7 @@ h2{
         
       }
       h1{
-        color:aqua;
+        color:black;
         text-align: center;
         text-shadow: 5px -5px 5px rgb(74, 71, 233) ;
         margin-top: 5%;
@@ -83,7 +85,7 @@ h2{
           
         }
         h1{
-            color:aqua;
+            color:black;
             text-align: center;
             text-shadow: 5px -5px 5px rgb(74, 71, 233) ;
             margin-top: 0%;
@@ -105,7 +107,7 @@ h2{
       
     }
     h1{
-        color:aqua;
+        color:black;
         text-align: center;
         text-shadow: 5px -5px 5px rgb(74, 71, 233) ;
         margin-top: 0%;
