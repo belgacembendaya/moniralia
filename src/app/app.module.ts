@@ -7,7 +7,6 @@ import { HomeComponent } from './home/home.component';
 import { AboutComponent } from './about/about.component';
 import { ContactComponent } from './contact/contact.component';
 import { ProductsComponent } from './products/products.component';
-import { TeamComponent } from './team/team.component';
 import { HeaderComponent } from './header/header.component';
 import { FooterComponent } from './footer/footer.component';
 
@@ -18,7 +17,6 @@ import { FooterComponent } from './footer/footer.component';
     AboutComponent,
     ContactComponent,
     ProductsComponent,
-    TeamComponent,
     HeaderComponent,
     FooterComponent,
   
