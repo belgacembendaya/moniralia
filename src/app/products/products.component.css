@@ -8,7 +8,13 @@
         margin-left: 55px;
     }
     
- 
+    .home1 {
+        max-width:50%; /* Assurer que la vidéo ne dépasse pas la largeur du conteneur */
+        max-height: 20%;/* Assurer que l'image ne dépasse pas la hauteur du conteneur */
+        border-radius: 40%;
+        margin-left:25%;
+        margin-top: 5%;
+      }
     /* START style responsive pour navbar*/
    @media only screen and (max-width: 300px) {
     a{
@@ -89,9 +95,6 @@
     .ben{
         text-align: center;
     }
-    .a3{
-        color: rgb(179, 240, 11);
-    }
-    .a4{
-        color: rgb(183, 185, 62);
+    .conteneur{
+        padding-left: 50%;
     }

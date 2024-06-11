@@ -21,6 +21,7 @@ h2{
         text-align: center;
         text-shadow: 5px -5px 5px rgb(74, 71, 233) ;
         margin-top: 10%;
+        font-weight: bold;
     }
     .ben{
         text-indent: 5%;
@@ -44,6 +45,7 @@ h2{
         text-align: center;
         text-shadow: 5px -5px 5px rgb(74, 71, 233) ;
         margin-top: 10%;
+        font-weight: bold;
     }
     .ben{
         text-indent: 5%;
@@ -67,6 +69,7 @@ h2{
         text-align: center;
         text-shadow: 5px -5px 5px rgb(74, 71, 233) ;
         margin-top: 5%;
+        font-weight: bold;
     }
     .ben{
         text-indent: 5%;
@@ -89,6 +92,7 @@ h2{
             text-align: center;
             text-shadow: 5px -5px 5px rgb(74, 71, 233) ;
             margin-top: 0%;
+            font-weight: bold;
         }
         .ben{
             text-indent: 5%;
@@ -111,6 +115,7 @@ h2{
         text-align: center;
         text-shadow: 5px -5px 5px rgb(74, 71, 233) ;
         margin-top: 0%;
+        font-weight: bold;
     }
     .ben{
         text-indent: 5%;
